@@ -2,6 +2,7 @@
     "name": "dr-omoh/tax-calculator",
     "description": "A Laravel package to calculate taxes for multiple countries",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "DrOmoh\\TaxCalculator\\": "src/"
