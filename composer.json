@@ -1,5 +1,5 @@
 {
-    "name": "dr-omoh/tax-calculator",
+    "name": "homord/tax-calculator",
     "description": "A Laravel package to calculate taxes for multiple countries",
     "type": "library",
     "license": "MIT",
