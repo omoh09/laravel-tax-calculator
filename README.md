@@ -1,8 +1,8 @@
 # Laravel Tax Calculator Package
 
-![Packagist Version](https://img.shields.io/packagist/v/YourVendorName/tax-calculator)
-![License](https://img.shields.io/github/license/YourVendorName/tax-calculator)
-![Build Status](https://img.shields.io/github/actions/workflow/status/YourVendorName/tax-calculator/tests.yml)
+![Packagist Version](https://img.shields.io/packagist/v/DrOmoh/tax-calculator)
+![License](https://img.shields.io/github/license/DrOmoh/tax-calculator)
+![Build Status](https://img.shields.io/github/actions/workflow/status/DrOmoh/tax-calculator/tests.yml)
 
 ## Introduction
 
@@ -73,3 +73,4 @@ Contributions are welcome! Please submit a pull request or open an issue on GitH
 
 License
 This package is open-sourced software licensed under the MIT license.
+
