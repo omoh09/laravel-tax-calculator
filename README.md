@@ -1,8 +1,7 @@
 # Laravel Tax Calculator Package
 
-![Packagist Version](https://img.shields.io/packagist/v/DrOmoh/tax-calculator)
-![License](https://img.shields.io/github/license/DrOmoh/tax-calculator)
-![Build Status](https://img.shields.io/github/actions/workflow/status/DrOmoh/tax-calculator/tests.yml)
+![Packagist Version](https://packagist.org/packages/homord/tax-calculator)
+![License](https://github.com/omoh09/laravel-tax-calculator/blob/main/LICENSE.md)
 
 ## Introduction
 
